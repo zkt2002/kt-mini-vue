@@ -1,0 +1,19 @@
+{
+  "name": "kt-mini-vue",
+  "version": "1.0.0",
+  "packageManager": "pnpm@9.6.0",
+  "type": "module",
+  "scripts": {},
+  "keywords": [],
+  "engines": {
+    "node": ">=18.12.0"
+  },
+  "author": "zkt2002",
+  "license": "ISC",
+  "dependencies": {
+    "@rollup/plugin-commonjs": "^26.0.1",
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "rollup": "^4.21.2",
+    "rollup-plugin-typescript2": "^0.36.0"
+  }
+}
